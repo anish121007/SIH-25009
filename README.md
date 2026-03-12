@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:12/3/2026
+## Reference Number:212225240010
+## Name:ANISH K B
 
 ## Problem Title
 SIH 25009: Gamified Environmental Education Platform for Schools and Colleges
@@ -33,27 +33,26 @@ Smart Education
 </ul>
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+1.Introduce weekly eco-missions like reducing plastic use or participating in clean-up drives.
+2.Provide a progress tracking dashboard for students and teachers.
+3.Enable collaborative eco-projects such as school gardening and recycling programs.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+1.Develop the platform using modern web and mobile technologies.
+2.Use a modular system with learning modules, challenges, rewards, and analytics.
+3.Deploy and test the platform in selected schools for pilot implementation.
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+1.Schools already have basic digital infrastructure and internet access.
+2. with school eco-clubs and environmental activities.
+3.Use student and teacher feedback to improve the platform.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+1.Encourages sustainable habits among students.
+2.Helps schools track environmental initiatives.
+3.Promotes community environmental awareness.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+1.National Education Policy (NEP) 2020
+2.UN Sustainable Development Goals (SDG 13)
+3.Research on Gamification in Education
